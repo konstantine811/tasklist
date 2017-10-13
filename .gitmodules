@@ -1,0 +1,6 @@
+[submodule "taskslist-constain"]
+	path = taskslist-constain
+	url = https://git.heroku.com/taskslist-constain.git
+[submodule "tasklist"]
+	path = tasklist
+	url = https://github.com/konstantine811/tasklist.git
